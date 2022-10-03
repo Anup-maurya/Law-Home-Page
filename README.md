@@ -6,7 +6,7 @@ This Page is built using **HTML5, CSS3 and Media Query**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://developerslandingpagebyanup.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://lawhomepagebyanup.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
